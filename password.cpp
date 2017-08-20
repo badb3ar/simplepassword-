@@ -1,3 +1,7 @@
+/*
+password generator.
+by b@dbear
+*/
 #include<iostream>
 using namespace std;
 
